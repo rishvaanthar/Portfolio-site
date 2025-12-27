@@ -1,0 +1,6 @@
+# This project is a React (Node.js) app, not a Python app.
+# Install dependencies with npm:
+
+#   npm install
+#   npm run dev
+
